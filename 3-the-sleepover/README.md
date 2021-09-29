@@ -1,7 +1,6 @@
 # Session 3 - Number Systems
 
 
-
 ## Goals
 
 1) Understand what a number system is
@@ -12,12 +11,15 @@
 
 4) Understand what ASCII is
 
+5) Learn about hex color codes
+
 
 ## The exercises:
 
-* [3.1 Exercise: xxx](3.1-exercise.md)
-* [3.2 Exercise: xxx](3.2-exercise.md)
-* [3.3 Exercise: xxx](3.3-exercise.md)
+* [3.1 Exercise](3.1-exercise.md)
+* [3.2 Exercise](3.2-exercise.md)
+* [3.3 Exercise](3.3-exercise.md)
+* [3.4 Exercise](3.4-exercise.md)
 
 
 ## Summary
