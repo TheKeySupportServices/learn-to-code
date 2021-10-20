@@ -15,3 +15,6 @@
 
 
 ## Summary
+
+By the end of this you should have some familiarity with HTML, and have some confidence
+to play and experiment with HTML.
